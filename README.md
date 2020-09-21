@@ -2,7 +2,7 @@
 
 #### _Ping-pong is a classic programming exercise that utilizes branching and looping, Sept 21, 2020_
 
-#### By _**Natalie Murphy**_
+#### By _**Natalie Murphy and William Donvoan-Seid**_
 
 ## Description
 
@@ -20,28 +20,25 @@ Maybe a Dictionary:
 
 ## Setup/Installation Requirements
 
-* _This is a great place_
-* _to list setup instructions_
-* _in a simple_
-* _easy-to-understand_
-* _format_
-
-_{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? How should I set up my databases? Is there other code this app depends on?}_
+* _Copy Repo_
+* _Navigate to directory in terminal_
+* _dotnet run_
 
 ## Known Bugs
 
-_{Are there issues that have not yet been resolved that you want to let users know you know?  Outline any issues that would impact use of your application.  Share any workarounds that are in place. }_
+There are no known bugs at this time.
 
 ## Support and contact details
 
-_{Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code.}_
+If you have any questions or concerns, please feel free to contact us at wdstwo@live.com and nataliemurphy500@gmail.com
 
 ## Technologies Used
 
-_{Tell me about the languages and tools you used to create this app. Assume that I know you probably used HTML and CSS. If you did something really cool using only HTML, point that out.}_
+* C#
+* REPL
 
 ### License
 
 This software is licensed under the MIT license.
 
-Copyright (c) 2020 **_{List of contributors or company name}_**
+Copyright (c) 2020 **_{Natalie Murphy and William Donovan-Seid}_**
